@@ -1,6 +1,0 @@
-- type: entity
-  id: TetherEntity
-  noSpawn: true
-  components:
-  - type: Physics
-  - type: Fixtures
